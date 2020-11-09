@@ -1,7 +1,8 @@
-# Region-based methods - Region growing, merging, splitting, watershed segmentation
-## Armin Niedermüller, Christoph Schranz, Ahmet Cihat Bozkurt, Tugbanur Aydemir
+# Finger Vein ROI - Finger Area Localisation/Segmentation (1)
+## Region-based methods - Region growing, merging, splitting, watershed segmentation
+### Armin Niedermüller, Christoph Schranz, Ahmet Cihat Bozkurt, Tugbanur Aydemir
 
-https://www.cosy.sbg.ac.at/~ckauba/imgproc_ws2020/slides/ImgProcImg_PS_Topics.pdf
+Slides: https://www.cosy.sbg.ac.at/~ckauba/imgproc_ws2020/slides/ImgProcImg_PS_Topics.pdf
 
 ## Introduction 
 ## Used data sets
