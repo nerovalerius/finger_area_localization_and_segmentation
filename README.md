@@ -1,4 +1,4 @@
-# Finger Vein ROI - Finger Area Localisation/Segmentation (1)
+# Finger Vein ROI - Finger Area Localisation/Segmentation
 ## Region-based methods - Region growing, merging, splitting, watershed segmentation
 ### Armin Niedermüller, Christoph Schranz, Ahmet Cihat Bozkurt, Tugbanur Aydemir
 
